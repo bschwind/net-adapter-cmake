@@ -76,7 +76,7 @@ pNetAdapterInfo* new_pNetAdapterInfo() {
 				IPv4Count++;
 			}
 		}
-		
+
 		// *** //
 		
 		// Allocate the pNetAdapterInfo's //
