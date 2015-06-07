@@ -12,5 +12,3 @@ Build
     $ cd build
     $ cmake ..
     $ make
-
-### Usage (Primary Adapter):
